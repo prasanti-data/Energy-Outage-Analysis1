@@ -23,8 +23,9 @@ This project showcases strong skills in **SQL querying, analytical reasoning, an
 - Identified **top facilities with the highest forced outage energy loss**, e.g., GW facility losing ~28,687 MW due to operational issues.  
 - Calculated **percentage contribution of each outage** to overall forced outage energy loss.  
 - Ranked outages per participant, uncovering the most critical reliability risks.  
-- Built **Tableau dashboards** that reveal:  
-  - Facility-wise total energy loss  
+- Built **Tableau dashboards** that reveal: 
+  - Facility-wise total energy loss
+  - Energy providers with most outage
   - Outage reasons distribution (Forced vs Routine)  
   - Participant comparison of energy reliability  
 
@@ -32,10 +33,11 @@ These insights can help **regulators and energy companies** prioritize reliabili
 
 ---
 
-## 📂 Repository Contents  
-- **/data** → Dataset(s) provided for the case study (AEMR_Outage_Table extract).  
-- **AEMR_SQL_Case_Study_For_Students_131223.ipynb** → Jupyter Notebook with SQL queries, explanations, and results.   
-- **tableau_dashboard.png** / **tableau_link.txt** → Tableau dashboard snapshots or published link.  
+## 📂 Repository Contents
+- **/data** → aemr.csv
+- **Project Instructions**
+- **AEMR_SQL_Case_Study.ipynb** → Jupyter Notebook with SQL queries, explanations, and results.   
+- **tableau_dashboard** →  [AEMR Case Study on Tableau Public](https://public.tableau.com/app/profile/prasanti.mishra/viz/AEMR_CaseStudy_17429364730040/Story1)
 - **README.md** → Project overview (this file).  
 
 ---
