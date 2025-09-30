@@ -35,7 +35,7 @@ These insights can help **regulators and energy companies** prioritize reliabili
 
 ## 📂 Repository Contents
 - **/data** → aemr.csv
-- **Project Instructions**
+- **Project Overview**
 - **AEMR_SQL_Case_Study.ipynb** → Jupyter Notebook with SQL queries, explanations, and results.   
 - **tableau_dashboard** →  [AEMR Case Study on Tableau Public](https://public.tableau.com/app/profile/prasanti.mishra/viz/AEMR_CaseStudy_17429364730040/Story1)
 - **README.md** → Project overview (this file).  
